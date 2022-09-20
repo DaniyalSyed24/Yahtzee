@@ -1,0 +1,9 @@
+﻿  Game.cpp
+  Player.cpp
+  PlayerContainer.cpp
+C:\Users\Daniyal\Desktop\School\Sheffield Hallam\Advanced Programming\yahtzee\Yahtzee\PlayerContainer.cpp(97,8): warning C4102: 'Source': unreferenced label
+  ScoreCard.cpp
+  Source.cpp
+C:\Users\Daniyal\Desktop\School\Sheffield Hallam\Advanced Programming\yahtzee\Yahtzee\Source.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Yahtzee.vcxproj -> C:\Users\Daniyal\Desktop\School\Sheffield Hallam\Advanced Programming\yahtzee\Yahtzee\Debug\Yahtzee.exe
