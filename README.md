@@ -1,3 +1,2 @@
 # YahtzeeGame
-Y2 AP Assignment Project C++
-
+Year 2 - Advanced Programming Assignment Project (C++)
